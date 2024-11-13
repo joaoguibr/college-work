@@ -1,0 +1,6 @@
+Acurácia dos modelos:
+Decision Tree: 0.97
+K-Nearest Neighbors: 0.93
+Naive Bayes: 0.75
+Logistic Regression: 0.79
+Neural Network: 0.97
